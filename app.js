@@ -104,5 +104,4 @@ function newGame(){
         location.reload();
     })
 }
-//you can always upgrade the game! let me know what innovative idea you can put into this
-//Good Luck
+
